@@ -71,7 +71,6 @@
                 {
                     Console.WriteLine("You realize that you were never in the Jungle and that you've been asleep in your bed this whole time.");
                 }
-       
             }
         }
     }
